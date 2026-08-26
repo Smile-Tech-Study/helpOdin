@@ -1,6 +1,7 @@
 ---
-description: Доработали логику отображения субтитров на видео
 title: Субтитры
+description: Доработали логику отображения субтитров на видео
+order: 253
 ---
 
 **!Субтитры подключаются на платной основе, за подробностями можно обратиться** [**в поддержку**](https://forms.yandex.ru/cloud/659fee4673cee70f5b63b79a/?answer_non_profile_email_41288802=l.maksimec@tgu-dpo.ru&answer_url_41279152=https://www.odin.study/ru/User/Info/37078)**.**

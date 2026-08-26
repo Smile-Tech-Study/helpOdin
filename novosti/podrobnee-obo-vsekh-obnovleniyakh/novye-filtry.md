@@ -1,6 +1,7 @@
 ---
-description: Добавили фильтры на страницы программ/потоков/дисциплин
 title: Новые фильтры
+description: Добавили фильтры на страницы программ/потоков/дисциплин
+order: 108
 ---
 
 В Odin существуют страницы [списка программ](https://www.odin.study/ru/University/Programs), [списка потоков](https://www.odin.study/ru/University/Cohorts) и [списка дисциплин](https://www.odin.study/ru/University/Disciplines) с помощью которых пользователи могут искать определенные программы, потоки и дисциплины соответственно.

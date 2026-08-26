@@ -1,5 +1,6 @@
 ---
 title: Лендинг Odin
+order: 90
 ---
 
 Реализовали новый лендинг Odin <https://www.odin.study/connect>.

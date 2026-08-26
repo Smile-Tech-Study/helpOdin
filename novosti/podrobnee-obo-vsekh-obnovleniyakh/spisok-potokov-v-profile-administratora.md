@@ -1,5 +1,6 @@
 ---
 title: Список потоков в профиле Администратора
+order: 242
 ---
 
 На странице профиля пользователя, только для Томского Государственного Университета, добавлено отображение блока “Администратор потока”.
@@ -13,5 +14,3 @@ title: Список потоков в профиле Администратор�
 ![](https://lh6.googleusercontent.com/FvmCWwD_lBF4Xl4v4mms_FrMwgbymmPft0A_EP0kTPREVCTs1Ptua9Oy61D3hisdiAzbEKA1_cv2erbmA9Q3vo_KkaiOzHfJBwFVWWdaM-mU1Jm3bIhG0P57bYXmrUSRXANRNLfOQDq94RVYqg)
 
 Дата публикации: 03.06.2022
-
-

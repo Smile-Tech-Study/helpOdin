@@ -1,3 +1,8 @@
+---
+title: Приложение Odin
+order: 196
+---
+
 # Приложение Odin
 
 Опубликовали приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa). Скачивайте и пользуйтесь 🎉
